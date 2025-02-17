@@ -12,3 +12,22 @@ h2 {
 a {
     color: rgb(234, 178, 239)
 }
+
+.card1Container {
+    height: 384px;
+    width: 320px;
+
+    border-radius: 10px;
+    background-color: blueviolet;
+}
+
+.card1Image {
+    height: 154px;
+}
+
+.card1Body {
+    height: 230px;
+
+    border-radius: 0px 0px 10px 10px;
+    background-color: #1f242d;
+}
