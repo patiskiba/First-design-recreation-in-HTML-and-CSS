@@ -36,12 +36,34 @@ a {
 .card1Body {
     height: 230px;
     overflow: auto;
+    padding: 24px;
     
     border-radius: 0px 0px 10px 10px;
     background-color: #1f242d;
-    color: azure;
+    
+}
+
+.title {
+    color: #ffffff;
+    font-size: 22px;
 }
 
 .subheadings {
-    
+    display:inline-flex;
+}
+
+.date {
+    color: #9C9C9C;
+}
+
+.subheadings p {
+    color: #ffffff;
+}
+
+.gameTitle {
+    color: #42C9BF;
+}
+
+.description {
+    color: #ffffff;
 }
