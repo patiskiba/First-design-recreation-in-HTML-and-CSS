@@ -39,10 +39,9 @@ a {
     
     border-radius: 0px 0px 10px 10px;
     background-color: #1f242d;
+    color: azure;
 }
 
-h3 {
-    /* margin: 0px; */
-    color: azure;
+.subheadings {
     
 }
