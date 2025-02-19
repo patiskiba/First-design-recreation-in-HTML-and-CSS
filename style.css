@@ -77,3 +77,9 @@ a {
     color: #ffffff;
     font-size: 16px;
 }
+
+.new {
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #D926A9;
+}
