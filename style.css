@@ -19,7 +19,7 @@ a {
 .card1Container {
     height: 384px;
     width: 320px;
-    
+    margin: auto;
 
     border-radius: 10px;
     background-color: rgb(57, 85, 241);
@@ -54,6 +54,9 @@ a {
 
 .date {
     color: #9C9C9C;
+    font-size: 14px;
+    letter-spacing: 2.5;
+    font-style: medium;
 }
 
 .subheadings p {
@@ -62,8 +65,10 @@ a {
 
 .gameTitle {
     color: #42C9BF;
+    font-size: 14px;
 }
 
 .description {
     color: #ffffff;
+    font-size: 16px;
 }
